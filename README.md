@@ -1,2 +1,3 @@
 # heroku-node
-Heroku sampel app
+Heroku sample app
+https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
